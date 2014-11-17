@@ -1,4 +1,0 @@
-datasciencecoursera
-===================
-
-First Assignment
